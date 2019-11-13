@@ -1,2 +1,2 @@
 # java
-java 笔记
+java笔记
